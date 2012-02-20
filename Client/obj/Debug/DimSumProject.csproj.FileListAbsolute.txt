@@ -1,0 +1,69 @@
+C:\Users\Odin\Desktop\New folder (3)\com_port_terminal_cs\bin\Debug\COM Port Terminal.exe.config
+C:\Users\Odin\Desktop\New folder (3)\com_port_terminal_cs\bin\Debug\COM Port Terminal.exe
+C:\Users\Odin\Desktop\New folder (3)\com_port_terminal_cs\bin\Debug\COM Port Terminal.pdb
+C:\Users\Odin\Desktop\New folder (3)\com_port_terminal_cs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Odin\Desktop\New folder (3)\com_port_terminal_cs\obj\Debug\COMPortTerminal.MainForm.resources
+C:\Users\Odin\Desktop\New folder (3)\com_port_terminal_cs\obj\Debug\COMPortTerminal.PortSettingsDialog.resources
+C:\Users\Odin\Desktop\New folder (3)\com_port_terminal_cs\obj\Debug\COMPortTerminal.Properties.Resources.resources
+C:\Users\Odin\Desktop\New folder (3)\com_port_terminal_cs\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Odin\Desktop\New folder (3)\com_port_terminal_cs\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Odin\Desktop\New folder (3)\com_port_terminal_cs\obj\Debug\COM Port Terminal.exe
+C:\Users\Odin\Desktop\New folder (3)\com_port_terminal_cs\obj\Debug\COM Port Terminal.pdb
+C:\Users\Odin\DimSumProject\bin\Debug\COM Port Terminal.exe.config
+C:\Users\Odin\DimSumProject\obj\Debug\COM Port Terminal.exe
+C:\Users\Odin\DimSumProject\obj\Debug\COM Port Terminal.pdb
+C:\Users\Odin\DimSumProject\bin\Debug\COM Port Terminal.exe
+C:\Users\Odin\DimSumProject\bin\Debug\COM Port Terminal.pdb
+C:\Users\Odin\DimSumProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Odin\DimSumProject\obj\Debug\COMPortTerminal.MainForm.resources
+C:\Users\Odin\DimSumProject\obj\Debug\COMPortTerminal.PortSettingsDialog.resources
+C:\Users\Odin\DimSumProject\obj\Debug\COMPortTerminal.Properties.Resources.resources
+C:\Users\Odin\DimSumProject\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Odin\DimSumProject\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Yashou\DimSumProject\bin\Debug\COM Port Terminal.exe
+C:\Users\Yashou\DimSumProject\bin\Debug\COM Port Terminal.exe.config
+C:\Users\Yashou\DimSumProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yashou\DimSumProject\obj\Debug\COMPortTerminal.MainForm.resources
+C:\Users\Yashou\DimSumProject\obj\Debug\COMPortTerminal.PortSettingsDialog.resources
+C:\Users\Yashou\DimSumProject\obj\Debug\COMPortTerminal.Properties.Resources.resources
+C:\Users\Yashou\DimSumProject\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Yashou\DimSumProject\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Yashou\DimSumProject\obj\Debug\COM Port Terminal.exe
+C:\Users\Yashou\DimSumProject\obj\Debug\COM Port Terminal.pdb
+C:\Users\Yashou\DimSumProject\bin\Debug\COM Port Terminal.pdb
+<<<<<<< HEAD
+C:\Users\Loki\DimSumProject\bin\Debug\COM Port Terminal.exe.config
+C:\Users\Loki\DimSumProject\obj\Debug\COM Port Terminal.exe
+C:\Users\Loki\DimSumProject\obj\Debug\COM Port Terminal.pdb
+C:\Users\Loki\DimSumProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Loki\DimSumProject\obj\Debug\COMPortTerminal.MainForm.resources
+C:\Users\Loki\DimSumProject\obj\Debug\COMPortTerminal.PortSettingsDialog.resources
+C:\Users\Loki\DimSumProject\obj\Debug\COMPortTerminal.Properties.Resources.resources
+C:\Users\Loki\DimSumProject\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Loki\DimSumProject\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Loki\DimSumProject\bin\Debug\COM Port Terminal.exe
+C:\Users\Loki\DimSumProject\bin\Debug\COM Port Terminal.pdb
+=======
+C:\Users\Sam\DimSumProject\bin\Debug\COM Port Terminal.exe.config
+C:\Users\Sam\DimSumProject\obj\Debug\COM Port Terminal.exe
+C:\Users\Sam\DimSumProject\obj\Debug\COM Port Terminal.pdb
+C:\Users\Sam\DimSumProject\bin\Debug\COM Port Terminal.exe
+C:\Users\Sam\DimSumProject\bin\Debug\COM Port Terminal.pdb
+C:\Users\Sam\DimSumProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sam\DimSumProject\obj\Debug\COMPortTerminal.MainForm.resources
+C:\Users\Sam\DimSumProject\obj\Debug\COMPortTerminal.PortSettingsDialog.resources
+C:\Users\Sam\DimSumProject\obj\Debug\COMPortTerminal.Properties.Resources.resources
+C:\Users\Sam\DimSumProject\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Sam\DimSumProject\obj\Debug\GenerateResource.write.1.tlog
+>>>>>>> b3e253961dd6395702b21dc2561d1a8621772b56
+C:\Users\Loki\TestDimSum\Client\bin\Debug\COM Port Terminal.exe.config
+C:\Users\Loki\TestDimSum\Client\obj\Debug\COM Port Terminal.exe
+C:\Users\Loki\TestDimSum\Client\obj\Debug\COM Port Terminal.pdb
+C:\Users\Loki\TestDimSum\Client\bin\Debug\COM Port Terminal.exe
+C:\Users\Loki\TestDimSum\Client\bin\Debug\COM Port Terminal.pdb
+C:\Users\Loki\TestDimSum\Client\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Loki\TestDimSum\Client\obj\Debug\COMPortTerminal.MainForm.resources
+C:\Users\Loki\TestDimSum\Client\obj\Debug\COMPortTerminal.PortSettingsDialog.resources
+C:\Users\Loki\TestDimSum\Client\obj\Debug\COMPortTerminal.Properties.Resources.resources
+C:\Users\Loki\TestDimSum\Client\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Loki\TestDimSum\Client\obj\Debug\GenerateResource.write.1.tlog
