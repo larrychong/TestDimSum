@@ -178,6 +178,8 @@ namespace COMPortTerminal
                         Console.WriteLine("SUBTOTAL: " + sub_total);
                         Console.WriteLine("Total Item: " + item_total);
                         totalSum.Text = "Subtotal: $" + sub_total + "\n" + "Total:$" + bill_total.ToString("0.00") + "\n" + "Total # of Items: " + item_total;
+                        AClient sendDataToServer = new AClient();
+                        sendDataToServer.StartClient();
                     }
                     // Return to the default color.
                     //rtbMonitor.SelectionColor = colorTransmit; 

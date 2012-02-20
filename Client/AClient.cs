@@ -3,6 +3,7 @@ using System.Net;
 using System.Net.Sockets;
 using System.Threading;
 using System.Text;
+using System.Diagnostics;
 
 
 namespace COMPortTerminal
@@ -37,7 +38,7 @@ namespace COMPortTerminal
         // The response from the remote device.
         private static String response = String.Empty;
 
-        private static void StartClient()
+        public void StartClient()
         {
             // Connect to a remote device.
             try
@@ -67,7 +68,7 @@ namespace COMPortTerminal
                 receiveDone.WaitOne();
 
                 // Write the response to the console.
-                Console.WriteLine("Response received : {0}", response);
+                Debug.WriteLine("Response received : {0}", response);
 
                 // Release the socket.
                 client.Shutdown(SocketShutdown.Both);
@@ -76,7 +77,7 @@ namespace COMPortTerminal
             }
             catch (Exception e)
             {
-                Console.WriteLine(e.ToString());
+                Debug.WriteLine(e.ToString());
             }
         }
 
@@ -90,8 +91,7 @@ namespace COMPortTerminal
                 // Complete the connection.
                 client.EndConnect(ar);
 
-                Console.WriteLine("Socket connected to {0}",
-                    client.RemoteEndPoint.ToString());
+                Debug.WriteLine("Socket connected to {0}", client.RemoteEndPoint.ToString());
 
                 // Signal that the connection has been made.
                 connectDone.Set();
@@ -154,7 +154,7 @@ namespace COMPortTerminal
             }
             catch (Exception e)
             {
-                Console.WriteLine(e.ToString());
+                Debug.WriteLine(e.ToString());
             }
         }
 
@@ -177,14 +177,14 @@ namespace COMPortTerminal
 
                 // Complete sending the data to the remote device.
                 int bytesSent = client.EndSend(ar);
-                Console.WriteLine("Sent {0} bytes to server.", bytesSent);
+                Debug.WriteLine("Sent {0} bytes to server.", bytesSent);
 
                 // Signal that all bytes have been sent.
                 sendDone.Set();
             }
             catch (Exception e)
             {
-                Console.WriteLine(e.ToString());
+                Debug.WriteLine(e.ToString());
             }
         }
     }
