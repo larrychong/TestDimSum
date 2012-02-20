@@ -1,0 +1,11 @@
+C:\Users\Loki\TestDimSum\Client\bin\Release\COM Port Terminal.exe.config
+C:\Users\Loki\TestDimSum\Client\bin\Release\COM Port Terminal.exe
+C:\Users\Loki\TestDimSum\Client\bin\Release\COM Port Terminal.pdb
+C:\Users\Loki\TestDimSum\Client\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Loki\TestDimSum\Client\obj\Release\COMPortTerminal.MainForm.resources
+C:\Users\Loki\TestDimSum\Client\obj\Release\COMPortTerminal.PortSettingsDialog.resources
+C:\Users\Loki\TestDimSum\Client\obj\Release\COMPortTerminal.Properties.Resources.resources
+C:\Users\Loki\TestDimSum\Client\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Loki\TestDimSum\Client\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Loki\TestDimSum\Client\obj\Release\COM Port Terminal.exe
+C:\Users\Loki\TestDimSum\Client\obj\Release\COM Port Terminal.pdb
